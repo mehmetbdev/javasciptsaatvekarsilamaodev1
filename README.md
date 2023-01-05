@@ -1,6 +1,6 @@
 # Javascipt Saat ve Karşılama Ekranı Ödevi
 
-[İlgili linkte bulunan](https://app.patika.dev/courses/javascript/odev1) ödev GitHub'a yüklenmiştir.
+[İlgili linkte bulunan](https://app.patika.dev/courses/javascript/odev1) ödevin çözümü GitHub'a yüklenmiştir.
 
 
 
